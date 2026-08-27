@@ -1,3 +1,6 @@
+
+# Expense Tracker with Graph
+
 import matplotlib.pyplot as plt
 
 expenses = {}
