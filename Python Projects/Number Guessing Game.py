@@ -1,3 +1,5 @@
+#Number Guessing Game with graph
+
 import random
 import matplotlib.pyplot as plt
 
